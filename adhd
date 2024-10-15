@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Understanding ADHD</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f7f6;
+            color: #333;
+        }
+
+        header {
+            background-color: #3a86ff;
+            color: white;
+            padding: 20px 0;
+            text-align: center;
+        }
+
+        header h1 {
+            margin: 0;
+        }
+
+        nav {
+            background-color: #023e8a;
+            padding: 10px;
+            text-align: center;
+        }
+
+        nav a {
+            color: white;
+            margin: 0 15px;
+            text-decoration: none;
+            font-weight: bold;
+        }
+
+        section {
+            padding: 20px;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 0 20px;
+        }
+
+        h2 {
+            color: #023e8a;
+        }
+
+        .intro, .symptoms, .management, .resources {
+            margin-bottom: 20px;
+        }
+
+        footer {
+            background-color: #3a86ff;
+            color: white;
+            text-align: center;
+            padding: 10px 0;
+        }
+
+        .resource-link {
+            display: block;
+            margin: 5px 0;
+            text-decoration: none;
+            color: #023e8a;
+            font-weight: bold;
+        }
+
+        .resource-link:hover {
+            color: #00b4d8;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Understanding ADHD</h1>
+    </header>
+
+    <nav>
+        <a href="#intro">What is ADHD?</a>
+        <a href="#symptoms">Symptoms</a>
+        <a href="#management">Management Tips</a>
+        <a href="#resources">Resources</a>
+    </nav>
+
+    <section class="container">
+        <div class="intro" id="intro">
+            <h2>What is ADHD?</h2>
+            <p>ADHD stands for Attention Deficit Hyperactivity Disorder. It is a brain condition that affects how a person pays attention, sits still, and controls their impulses. People with ADHD may find it hard to focus, follow instructions, or stay on task, but with the right strategies, they can thrive.</p>
+        </div>
+
+        <div class="symptoms" id="symptoms">
+            <h2>Symptoms of ADHD</h2>
+            <p>ADHD symptoms vary from person to person but generally fall into three categories: inattention, hyperactivity, and impulsivity. Some common symptoms include:</p>
+            <ul>
+                <li>Having trouble focusing on tasks or activities</li>
+                <li>Being easily distracted</li>
+                <li>Difficulty organizing tasks and activities</li>
+                <li>Fidgeting or squirming when seated</li>
+                <li>Talking excessively or interrupting others</li>
+                <li>Acting without thinking (impulsiveness)</li>
+            </ul>
+        </div>
+
+        <div class="management" id="management">
+            <h2>Management Tips</h2>
+            <p>There are many ways to manage ADHD symptoms to help people stay focused and productive. Some common tips include:</p>
+            <ul>
+                <li>Breaking tasks into smaller steps</li>
+                <li>Using planners or apps to keep track of schedules</li>
+                <li>Creating routines to help with focus</li>
+                <li>Practicing mindfulness or relaxation techniques</li>
+                <li>Getting regular exercise to release energy</li>
+                <li>Working with healthcare providers for support</li>
+            </ul>
+        </div>
+
+        <div class="resources" id="resources">
+            <h2>Helpful Resources</h2>
+            <p>For more information and support on ADHD, check out these resources:</p>
+            <a href="https://www.chadd.org/" class="resource-link" target="_blank">CHADD (Children and Adults with Attention-Deficit/Hyperactivity Disorder)</a>
+            <a href="https://www.additudemag.com/" class="resource-link" target="_blank">ADDitude Magazine</a>
+            <a href="https://www.cdc.gov/ncbddd/adhd/" class="resource-link" target="_blank">CDC - ADHD Information</a>
+            <a href="https://www.understood.org/" class="resource-link" target="_blank">Understood.org</a>
+        </div>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 ADHD Awareness | All Rights Reserved @WESKID </p>
+    </footer>
+</body>
+</html>
